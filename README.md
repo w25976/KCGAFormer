@@ -1,3 +1,3 @@
 # KCGAFormer
 ***
-![Example Image](Visualization/CAM1.pdf)
+![CAM1](https://github.com/w25976/KCGAFormer/Visualization/CAM1.pdf)
