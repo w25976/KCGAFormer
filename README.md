@@ -1,6 +1,6 @@
 # KCGAFormer
 ***
-## 
+
 <div align = "center">    
   <img  src="./Visualization/Ade20k_curve.png" width="330" />
   <img  src="./Visualization/Cityscapes_curve.png" width="330" />
