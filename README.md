@@ -11,6 +11,8 @@
     <td style="text-align: center;">
       <img src="./Visualization/COCO-Stuff_curve.png" width="330" />
     </td>
+  </tr>
+  <tr>
     <td style="text-align: center;">
       <figcaption>ADE20K</figcaption>
     </td>
@@ -33,6 +35,8 @@
     <td style="text-align: center;">
       <img src="./Visualization/CAM2.png" width="500" />
     </td>
+  </tr>
+  <tr>
     <td style="text-align: center;">
       <figcaption>CAM1</figcaption>
     </td>
