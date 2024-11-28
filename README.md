@@ -13,8 +13,8 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <figcaption align="center">ADE20K</figcaption>
+    <td style="text-align: center;">
+      <figcaption>ADE20K</figcaption>
     </td>
     <td>
       <figcaption align="center">Cityscapes</figcaption>
