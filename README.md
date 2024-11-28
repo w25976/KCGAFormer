@@ -13,14 +13,14 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <p style="text-align: center;">ADE20K</p>
+    <td style="text-align: center;">
+      <p>ADE20K</p>
     </td>
-    <td>
-      <p style="text-align: center;">Cityscapes</p>
+    <td style="text-align: center;">
+      <p>Cityscapes</p>
     </td>
-    <td>
-      <p style="text-align: center;">COCO-Stuff</p>
+    <td style="text-align: center;">
+      <p>COCO-Stuff</p>
     </td>
   </tr>
 </table>
@@ -37,11 +37,11 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <figcaption align="center">CAM1</figcaption>
+    <td style="text-align: center;">
+      <p>CAM1</p>
     </td>
-    <td>
-      <figcaption align="center">CAM2</figcaption>
+    <td style="text-align: center;">
+      <p>CAM2</p>
     </td>
   </tr>
 </table>
