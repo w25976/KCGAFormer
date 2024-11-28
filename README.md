@@ -16,11 +16,11 @@
     <td style="text-align: center;">
       <p>ADE20K</p>
     </td>
-    <td>
-      <figcaption align="center">Cityscapes</figcaption>
+    <td style="text-align: center;">
+      <p>Cityscapes</p>
     </td>
-    <td>
-      <figcaption align="center">COCO-Stuff</figcaption>
+    <td style="text-align: center;">
+      <p>COCO-Stuff</p>
     </td>
   </tr>
 </table>
