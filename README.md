@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <figcaption>ADE20K</figcaption>
+      <p>ADE20K</p>
     </td>
     <td>
       <figcaption align="center">Cityscapes</figcaption>
