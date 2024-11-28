@@ -13,14 +13,14 @@
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;">
-      <p>ADE20K</p>
+    <td>
+      <p style="text-align: center;">ADE20K</p>
     </td>
-    <td style="text-align: center;">
-      <p>Cityscapes</p>
+    <td>
+      <p style="text-align: center;">Cityscapes</p>
     </td>
-    <td style="text-align: center;">
-      <p>COCO-Stuff</p>
+    <td>
+      <p style="text-align: center;">COCO-Stuff</p>
     </td>
   </tr>
 </table>
