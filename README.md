@@ -2,9 +2,9 @@
 ***
 
 <div align = "center">    
-  <img src="./Visualization/Ade20k_curve.png" width="300" />
-  <img src="./Visualization/Cityscapes_curve.png" width="300" />
-  <img src="./Visualization/COCO-Stuff_curve.png" width="300" />
+  <img src="./Visualization/Ade20k_curve.png" width="250" />
+  <img src="./Visualization/Cityscapes_curve.png" width="250" />
+  <img src="./Visualization/COCO-Stuff_curve.png" width="250" />
 </div>
 
 ***
